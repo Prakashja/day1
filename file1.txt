@@ -1,6 +1,4 @@
 Dev commited
-Hi this is dev and i did the changes
-=======
-I am working from home on monday
-Dev is working from home on tuesday
-Working in th class
+Hi this is dev and i did the change
+s
+Working on the git bash
