@@ -9,3 +9,5 @@ s
 day 1 changes.....day 1 again
 
 Working on the git bash
+
+practice of commiting file
